@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+#buttons{
+	background-color: purple;
+	height: 300px;
+}
+.btn{
+	background-color: green;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	padding-inline: 25px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	font-weight: 600;
+}
